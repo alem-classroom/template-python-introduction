@@ -1,1 +1,1 @@
-Функция hello_world должна вернуть строку "hello world".
+Функция hello_world должна вернуть строку "Hello World!".
