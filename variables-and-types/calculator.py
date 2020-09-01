@@ -1,5 +1,6 @@
 def add(first, second):
-    # return sum of first and second arguments
+    # return должен вернуть ответ функции, в данном случае firsdt + second
+    return first + second
 
 def sub(first, second):
     # return subtraction of first and second arguments
