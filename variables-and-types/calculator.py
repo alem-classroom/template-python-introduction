@@ -1,5 +1,5 @@
 def add(first, second):
-    # return должен вернуть ответ функции, в данном случае firsdt + second
+    # return должен вернуть ответ функции, в данном случае first + second
     return first + second
 
 def sub(first, second):
